@@ -1,0 +1,10 @@
+\\nrh1\users$\aspit1020\dokumenter\visual studio 2013\Projects\DatingProgram\DatingProgram\bin\Debug\DatingProgram.exe.config
+\\nrh1\users$\aspit1020\dokumenter\Visual Studio 2013\Projects\DatingProgram\DatingProgram\bin\Debug\DatingProgram.exe
+\\nrh1\users$\aspit1020\dokumenter\Visual Studio 2013\Projects\DatingProgram\DatingProgram\bin\Debug\DatingProgram.pdb
+\\nrh1\users$\aspit1020\dokumenter\Visual Studio 2013\Projects\DatingProgram\DatingProgram\obj\Debug\DatingProgram.csprojResolveAssemblyReference.cache
+\\nrh1\users$\aspit1020\dokumenter\Visual Studio 2013\Projects\DatingProgram\DatingProgram\obj\Debug\DatingProgram.Form1.resources
+\\nrh1\users$\aspit1020\dokumenter\Visual Studio 2013\Projects\DatingProgram\DatingProgram\obj\Debug\DatingProgram.Properties.Resources.resources
+\\nrh1\users$\aspit1020\dokumenter\Visual Studio 2013\Projects\DatingProgram\DatingProgram\obj\Debug\DatingProgram.csproj.GenerateResource.Cache
+\\nrh1\users$\aspit1020\dokumenter\Visual Studio 2013\Projects\DatingProgram\DatingProgram\obj\Debug\DatingProgram.exe
+\\nrh1\users$\aspit1020\dokumenter\Visual Studio 2013\Projects\DatingProgram\DatingProgram\obj\Debug\DatingProgram.pdb
+\\nrh1\users$\aspit1020\dokumenter\Visual Studio 2013\Projects\DatingProgram\DatingProgram\obj\Debug\DatingProgram.LoginForm2.resources

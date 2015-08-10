@@ -1,0 +1,9 @@
+\\nrh1\users$\aspit1020\dokumenter\Visual Studio 2013\Projects\ParkingLotProgram\ParkingLotProgram\bin\Debug\ParkingLotProgram.exe.config
+\\nrh1\users$\aspit1020\dokumenter\Visual Studio 2013\Projects\ParkingLotProgram\ParkingLotProgram\bin\Debug\ParkingLotProgram.exe
+\\nrh1\users$\aspit1020\dokumenter\Visual Studio 2013\Projects\ParkingLotProgram\ParkingLotProgram\bin\Debug\ParkingLotProgram.pdb
+\\nrh1\users$\aspit1020\dokumenter\Visual Studio 2013\Projects\ParkingLotProgram\ParkingLotProgram\obj\Debug\ParkingLotProgram.Properties.Resources.resources
+\\nrh1\users$\aspit1020\dokumenter\Visual Studio 2013\Projects\ParkingLotProgram\ParkingLotProgram\obj\Debug\ParkingLotProgram.Form1.resources
+\\nrh1\users$\aspit1020\dokumenter\Visual Studio 2013\Projects\ParkingLotProgram\ParkingLotProgram\obj\Debug\ParkingLotProgram.csproj.GenerateResource.Cache
+\\nrh1\users$\aspit1020\dokumenter\Visual Studio 2013\Projects\ParkingLotProgram\ParkingLotProgram\obj\Debug\ParkingLotProgram.exe
+\\nrh1\users$\aspit1020\dokumenter\Visual Studio 2013\Projects\ParkingLotProgram\ParkingLotProgram\obj\Debug\ParkingLotProgram.pdb
+\\nrh1\users$\aspit1020\dokumenter\Visual Studio 2013\Projects\ParkingLotProgram\ParkingLotProgram\obj\Debug\ParkingLotProgram.csprojResolveAssemblyReference.cache

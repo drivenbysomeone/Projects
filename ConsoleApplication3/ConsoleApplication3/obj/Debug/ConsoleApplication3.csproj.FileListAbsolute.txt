@@ -1,0 +1,6 @@
+\\nrh1\users$\aspit1020\dokumenter\visual studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+\\nrh1\users$\aspit1020\dokumenter\visual studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
+\\nrh1\users$\aspit1020\dokumenter\visual studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+\\nrh1\users$\aspit1020\dokumenter\visual studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+\\nrh1\users$\aspit1020\dokumenter\visual studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+\\nrh1\users$\aspit1020\dokumenter\visual studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
